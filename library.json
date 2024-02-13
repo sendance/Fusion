@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "Fusion",
+  "version": "0.0.0+20240213113517",
+  "build" : {
+    "srcFilter": "-<*> -<Examples> -<Python> +<Fusion/*>"
+  }
+}
